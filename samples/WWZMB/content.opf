@@ -1,0 +1,30 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookID" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:creator opf:role="aut" opf:file-as="Brooks, Max">Max Brooks</dc:creator>
+        <dc:title>World War Z</dc:title>
+        <dc:date opf:event="publication">0101-01-01T06:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <dc:publisher>ePub Bud (www.epubbud.com)</dc:publisher>
+        <dc:identifier id="BookID" opf:scheme="ePubBud">http://www.epubbud.com/epubs/R/8/R8YNDKJH/World_War_Z.epub</dc:identifier>
+        <meta name="cover" content="cover-image"/>
+        <opf:meta name="calibre:title_sort" content="World War Z"/>
+        <opf:meta name="calibre:rating" content="0"/>
+        <opf:meta name="calibre:user_categories" content="{}"/>
+    </metadata>
+    <manifest>
+        <item id="cover" href="cover.html" media-type="application/xhtml+xml"/>
+        <item id="cover-image" href="cover.jpg" media-type="image/jpeg"/>
+        <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+        <item id="part1.xhtml" href="text/part1.xhtml" media-type="application/xhtml+xml"/>
+        <item id="part2.xhtml" href="text/part2.xhtml" media-type="application/xhtml+xml"/>
+    </manifest>
+    <spine toc="ncx">
+        <itemref idref="cover" linear="no"/>
+        <itemref idref="part1.xhtml"/>
+        <itemref idref="part2.xhtml"/>
+    </spine>
+    <guide>
+        <reference href="cover.html" type="cover" title="Cover"/>
+    </guide>
+</package>

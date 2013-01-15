@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+   "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+    <head>
+        <meta name="dtb:uid" content="http://www.epubbud.com/epubs/R/8/R8YNDKJH/World_War_Z.epub"/>
+        <meta name="dtb:depth" content="1"/>
+        <meta name="dtb:totalPageCount" content="0"/>
+        <meta name="dtb:maxPageNumber" content="0"/>
+    </head>
+    <docTitle>
+        <text>World War Z</text>
+    </docTitle>
+    <docAuthor>
+        <text>Brooks, Max</text>
+    </docAuthor>
+    <navMap>
+        <navPoint id="navPoint-1" playOrder="1">
+            <navLabel><text>World War Z</text></navLabel>
+            <content src="text/part1.xhtml#chapter1"/>
+        </navPoint>
+        <navPoint id="navPoint-2" playOrder="2">
+            <navLabel><text>VOSTOK STATION: ANTARCTICA</text></navLabel>
+            <content src="text/part2.xhtml#chapter2"/>
+        </navPoint>
+        <navPoint id="navPoint-3" playOrder="3">
+            <navLabel><text>PARNELL AIR NATIONAL GUARD BASE: MEMP...</text></navLabel>
+            <content src="text/part2.xhtml#chapter3"/>
+        </navPoint>
+        <navPoint id="navPoint-4" playOrder="4">
+            <navLabel><text>THE DEMILITARIZED ZONE: SOUTH KOREA</text></navLabel>
+            <content src="text/part2.xhtml#chapter4"/>
+        </navPoint>
+        <navPoint id="navPoint-5" playOrder="5">
+            <navLabel><text>TOMONAGA: I told him to lie still, th...</text></navLabel>
+            <content src="text/part2.xhtml#chapter5"/>
+        </navPoint>
+        <navPoint id="navPoint-6" playOrder="6">
+            <navLabel><text>TOMONAGA: I asked him where he was go...</text></navLabel>
+            <content src="text/part2.xhtml#chapter6"/>
+        </navPoint>
+        <navPoint id="navPoint-7" playOrder="7">
+            <navLabel><text>TOMONAGA: I did not understand. I ord...</text></navLabel>
+            <content src="text/part2.xhtml#chapter7"/>
+        </navPoint>
+        <navPoint id="navPoint-8" playOrder="8">
+            <navLabel><text>KONDO: At first I didn’t understand…</text></navLabel>
+            <content src="text/part2.xhtml#chapter8"/>
+        </navPoint>
+
+    </navMap>
+</ncx>
