@@ -13,18 +13,26 @@ require 'PHP-EPUBParser/src/EPUBParser/EPUB/Publication/Package/Metadata.php';
 require 'PHP-EPUBParser/src/EPUBParser/EPUB/Publication/Package/Guide.php';
 require 'PHP-EPUBParser/src/EPUBParser/EPUB/Publication/Package/Guide/Reference.php';
 
-
 use EPUBParser\EPUB;
 
+require 'SBD.php';
 
-$book = new EPUB\Book('samples/WWZMB');
 
 
-foreach ($book->getPackage()->getManifest()->getItems() as $item) {
-    echo $item->getId(), ': ', $item->getHref(), PHP_EOL;
-    print_r($item->getProperties());
-}
+$path = 'samples/WWZMB';
+
+
+$book = new EPUB\Book($path);
+$sentences = array();
+
 foreach ($book->getPackage()->getSpine()->getItemrefs() as $itemref) {
-    print_r($itemref->getProperties());
+	$item = $itemref->getItem();
+	
+	$filepath = $path . '/' . $item->getHref();
+	
+	$sbd = new SBD($filepath);
+	$sentences[$item->getId()] = $sbd->detect();
 }
+
+file_put_contents('sentences.json', json_encode($sentences));
 
