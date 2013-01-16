@@ -47,9 +47,9 @@ class SBD
 					if (count($sentences) == 1) {
 						// There was only one sentence in this node:
 						$this->paths[] = $xpath;
-						echo "====" . "\n";
-						echo $xpath . "\n";
-						echo $text . "\n";
+						// echo "====" . "\n";
+						// echo $xpath . "\n";
+						// echo $text . "\n";
 					}
 					else {
 						$offsets = array();
@@ -67,9 +67,9 @@ class SBD
 							
 							$this->paths[] = $xpath . $range;
 							
-							echo "====" . "\n";
-							echo $xpath . $range . "\n";
-							echo $sentences[$i][0] . "\n";
+							// echo "====" . "\n";
+							// echo $xpath . $range . "\n";
+							// echo $sentences[$i][0] . "\n";
 						}
 						
 					}
