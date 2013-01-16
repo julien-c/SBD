@@ -3,10 +3,12 @@
 class SBD 
 {
 	protected $filepath;
+	protected $paths;
 	
 	public function __construct($filepath)
 	{
 		$this->filepath = $filepath;
+		$this->paths = array();
 	}
 	
 	public function detect()
@@ -21,6 +23,8 @@ class SBD
 		$body = $dom->getElementsByTagName('body')->item(0);
 		
 		$this->walkthrough($body, 0);
+		
+		return $this->paths;
 	}
 	
 	
@@ -31,17 +35,48 @@ class SBD
 			if ($node instanceof DOMText) {
 				if (trim($node->textContent) !== '') {
 					$xpath = $node->getNodePath();
+					if (substr($xpath, -7) == '/text()') {
+						$xpath = substr($xpath, 0, -7);
+					}
+					
 					$text  = $node->textContent;
 					
-					// echo "====" . "\n";
-					// echo $xpath . "\n";
-					// echo $text . "\n";
 					
 					$sentences = $this->segment($text);
-					var_dump($sentences);
+					
+					if (count($sentences) == 1) {
+						// There was only one sentence in this node:
+						$this->paths[] = $xpath;
+						echo "====" . "\n";
+						echo $xpath . "\n";
+						echo $text . "\n";
+					}
+					else {
+						$offsets = array();
+						foreach ($sentences as $sentence) {
+							$offsets[] = $sentence[1];
+						}
+						
+						for ($i = 0; $i < count($offsets); $i++) { 
+							if ($i == count($offsets) - 1) {
+								$range = ':' . $offsets[$i] . ',' . strlen($text);
+							}
+							else {
+								$range = ':' . $offsets[$i] . ',' . $offsets[$i+1];
+							}
+							
+							$this->paths[] = $xpath . $range;
+							
+							echo "====" . "\n";
+							echo $xpath . $range . "\n";
+							echo $sentences[$i][0] . "\n";
+						}
+						
+					}
 				}
 			}
 			else {
+				// Everything else.
 			}
 			
 			if ($node->hasChildNodes()) {
@@ -73,7 +108,7 @@ class SBD
 			\s+                 # Split on whitespace between sentences.
 			/ix';
 		
-		$sentences = preg_split($re, $text, -1, PREG_SPLIT_NO_EMPTY);
+		$sentences = preg_split($re, $text, -1, PREG_SPLIT_OFFSET_CAPTURE);
 		
 		return $sentences;
 	}
