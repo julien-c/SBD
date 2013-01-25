@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:dcterms="http://purl.org/dc/terms/" xmlns="http://www.w3.org/2005/Atom">
+<title>Free Culture</title>
+<id>http://www.feedbooks.com/book/2750</id>
+<author>
+  <name>Lawrence Lessig</name>
+  <uri>http://www.feedbooks.com/author/524</uri>
+</author>
+<published>2008-08-09T14:42:56Z</published>
+<updated>2011-05-30T21:17:51Z</updated>
+<dcterms:language>en</dcterms:language>
+<dcterms:issued>2006</dcterms:issued>
+<category term="FBNFC000000" label="Non-Fiction"/>
+<summary>Lawrence Lessig, &#8220;the most important thinker on intellectual property in the Internet era&#8221; (The New Yorker), masterfully argues that never before in human history has the power to control creative progress been so concentrated in the hands of the ...</summary>
+<dcterms:extent>101,244 words</dcterms:extent>
+<dcterms:source>http://free-culture.cc</dcterms:source>
+<rights>Attribution Non-Commercial (cc by-nc)</rights>
+<link type="text/html" rel="alternate" title="View on Feedbooks" href="http://generation.feedbooks.com/book/2750"/>
+<link type="text/html" rel="license" title="Creative Commons" href="http://creativecommons.org/licenses/by-nc/3.0/"/>
+<link type="application/epub+zip" rel="http://opds-spec.org/acquisition" href="http://generation.feedbooks.com/book/2750.epub"/>
+<link type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" href="http://generation.feedbooks.com/book/2750.mobi"/>
+<link type="application/pdf" rel="http://opds-spec.org/acquisition" href="http://generation.feedbooks.com/book/2750.pdf"/>
+<link type="image/jpeg" rel="http://opds-spec.org/image" href="http://covers.feedbooks.net/book/2750.jpg?size=large&amp;t=1306790271"/>
+<link type="image/jpeg" rel="http://opds-spec.org/image/thumbnail" href="http://covers.feedbooks.net/book/2750.jpg?t=1306790271"/>
+<link type="application/atom+xml" rel="related" title="Categories for this book" href="http://generation.feedbooks.com/book/2750/categories.atom"/>
+<link type="application/atom+xml" rel="related" title="People also downloaded..." href="http://generation.feedbooks.com/book/2750/similar.atom"/>
+<link type="application/atom+xml" rel="replies" thr:count="4" title="Comments for this book (4)" thr:updated="2010-10-01T01:30:40Z" href="http://generation.feedbooks.com/book/2750/comments.atom"/>
+<link type="text/html" rel="replies" thr:count="4" title="Comments for this book (4)" thr:updated="2010-10-01T01:30:40Z" href="http://generation.feedbooks.com/book/2750/comments"/>
+<link type="text/html" rel="related" title="View on Goodreads" href="http://www.goodreads.com/mobile/book/isbn/0143034650"/>
+<content type="html">&lt;p&gt;Lawrence Lessig, &#8220;the most important thinker on intellectual property in the Internet era&#8221; (The New Yorker), masterfully argues that never before in human history has the power to control creative progress been so concentrated in the hands of the powerful few, the so-called Big Media. Never before have the cultural powers- that-be been able to exert such control over what we can and can&#8217;t do with the culture around us. Our society defends free markets and free speech; why then does it permit such top-down control? To lose our long tradition of free culture, Lawrence Lessig shows us, is to lose our freedom to create, our freedom to build, and, ultimately, our freedom to imagine.&lt;/p&gt;</content>
+  <link type="application/atom+xml" rel="contents" href="http://generation.feedbooks.com/book/2750/contents.atom"/>
+</entry>

@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content=
+"HTML Tidy for FreeBSD (vers 25 March 2009), see www.w3.org" />
+<title>Free Culture</title>
+<link rel="stylesheet" href="css/main.css" type="text/css" />
+<meta http-equiv="Content-Type" content=
+"application/xhtml+xml; charset=utf-8" />
+</head>
+<body>
+<div class="body">
+<div id="section_71518" class="section">
+<h3 class="section_title">5. Law and Architecture: Reach</h3>
+<div class="text">
+<p>Whereas originally the law regulated only publishers, the change
+in copyright's scope means that the law today regulates publishers,
+users, and authors. It regulates them because all three are capable
+of making copies, and the core of the regulation of copyright law
+is copies.<a class="footnote" href="footnotes.xml#footnote_133" id=
+"footnote_133_call">[133]</a></p>
+<p>"Copies." That certainly sounds like the obvious thing for
+copyright law to regulate. But as with Jack Valenti's argument at
+the start of this chapter, that "creative property" deserves the
+"same rights" as all other property, it is the obvious that we need
+to be most careful about. For while it may be obvious that in the
+world before the Internet, copies were the obvious trigger for
+copyright law, upon reflection, it should be obvious that in the
+world with the Internet, copies should not be the trigger for
+copyright law. More precisely, they should not always be the
+trigger for copyright law.</p>
+<p>This is perhaps the central claim of this book, so let me take
+this very slowly so that the point is not easily missed. My claim
+is that the Internet should at least force us to rethink the
+conditions under which the law of copyright automatically
+applies,<a class="footnote" href="footnotes.xml#footnote_134" id=
+"footnote_134_call">[134]</a> because it is clear that the current
+reach of copyright was never contemplated, much less chosen, by the
+legislators who enacted copyright law.</p>
+<p>We can see this point abstractly by beginning with this largely
+empty circle.</p>
+<p>(Figure 5.7)</p>
+<p>Think about a book in real space, and imagine this circle to
+represent all its potential uses. Most of these uses are
+unregulated by copyright law, because the uses don't create a copy.
+If you read a book, that act is not regulated by copyright law. If
+you give someone the book, that act is not regulated by copyright
+law. If you resell a book, that act is not regulated (copyright law
+expressly states that after the first sale of a book, the copyright
+owner can impose no further conditions on the disposition of the
+book). If you sleep on the book or use it to hold up a lamp or let
+your puppy chew it up, those acts are not regulated by copyright
+law, because those acts do not make a copy.</p>
+<p>(Figure 5.8)</p>
+<p>Obviously, however, some uses of a copyrighted book are
+regulated by copyright law. Republishing the book, for example,
+makes a copy. It is therefore regulated by copyright law. Indeed,
+this particular use stands at the core of this circle of possible
+uses of a copyrighted work. It is the paradigmatic use properly
+regulated by copyright regulation (see first diagram on next
+page).</p>
+<p>Finally, there is a tiny sliver of otherwise regulated copying
+uses that remain unregulated because the law considers these "fair
+uses."</p>
+<p>(Figure 5.9)</p>
+<p>These are uses that themselves involve copying, but which the
+law treats as unregulated because public policy demands that they
+remain unregulated. You are free to quote from this book, even in a
+review that is quite negative, without my permission, even though
+that quoting makes a copy. That copy would ordinarily give the
+copyright owner the exclusive right to say whether the copy is
+allowed or not, but the law denies the owner any exclusive right
+over such "fair uses" for public policy (and possibly First
+Amendment) reasons.</p>
+<p>(Figure 5.10)</p>
+<p>(Figure 5.11)</p>
+<p>In real space, then, the possible uses of a book are divided
+into three sorts: (1) unregulated uses, (2) regulated uses, and (3)
+regulated uses that are nonetheless deemed "fair" regardless of the
+copyright owner's views.</p>
+<p>Enter the Internet—a distributed, digital network where every
+use of a copyrighted work produces a copy.<a class="footnote" href=
+"footnotes.xml#footnote_135" id="footnote_135_call">[135]</a> And
+because of this single, arbitrary feature of the design of a
+digital network, the scope of category 1 changes dramatically. Uses
+that before were presumptively unregulated are now presumptively
+regulated. No longer is there a set of presumptively unregulated
+uses that define a freedom associated with a copyrighted work.
+Instead, each use is now subject to the copyright, because each use
+also makes a copy—category 1 gets sucked into category 2. And those
+who would defend the unregulated uses of copyrighted work must look
+exclusively to category 3, fair uses, to bear the burden of this
+shift.</p>
+<p>So let's be very specific to make this general point clear.
+Before the Internet, if you purchased a book and read it ten times,
+there would be no plausible copyright-related argument that the
+copyright owner could make to control that use of her book.
+Copyright law would have nothing to say about whether you read the
+book once, ten times, or every night before you went to bed. None
+of those instances of use—reading— could be regulated by copyright
+law because none of those uses produced a copy.</p>
+<p>But the same book as an e-book is effectively governed by a
+different set of rules. Now if the copyright owner says you may
+read the book only once or only once a month, then copyright law
+would aid the copyright owner in exercising this degree of control,
+because of the accidental feature of copyright law that triggers
+its application upon there being a copy. Now if you read the book
+ten times and the license says you may read it only five times,
+then whenever you read the book (or any portion of it) beyond the
+fifth time, you are making a copy of the book contrary to the
+copyright owner's wish.</p>
+<p>There are some people who think this makes perfect sense. My aim
+just now is not to argue about whether it makes sense or not. My
+aim is only to make clear the change. Once you see this point, a
+few other points also become clear:</p>
+<p>First, making category 1 disappear is not anything any policy
+maker ever intended. Congress did not think through the collapse of
+the presumptively unregulated uses of copyrighted works. There is
+no evidence at all that policy makers had this idea in mind when
+they allowed our policy here to shift. Unregulated uses were an
+important part of free culture before the Internet.</p>
+<p>Second, this shift is especially troubling in the context of
+transformative uses of creative content. Again, we can all
+understand the wrong in commercial piracy. But the law now purports
+to regulate any transformation you make of creative work using a
+machine. "Copy and paste" and "cut and paste" become crimes.
+Tinkering with a story and releasing it to others exposes the
+tinkerer to at least a requirement of justification. However
+troubling the expansion with respect to copying a particular work,
+it is extraordinarily troubling with respect to transformative uses
+of creative work.</p>
+<p>Third, this shift from category 1 to category 2 puts an
+extraordinary burden on category 3 ("fair use") that fair use never
+before had to bear. If a copyright owner now tried to control how
+many times I could read a book on-line, the natural response would
+be to argue that this is a violation of my fair use rights. But
+there has never been any litigation about whether I have a fair use
+right to read, because before the Internet, reading did not trigger
+the application of copyright law and hence the need for a fair use
+defense. The right to read was effectively protected before because
+reading was not regulated.</p>
+<p>This point about fair use is totally ignored, even by advocates
+for free culture. We have been cornered into arguing that our
+rights depend upon fair use—never even addressing the earlier
+question about the expansion in effective regulation. A thin
+protection grounded in fair use makes sense when the vast majority
+of uses are unregulated. But when everything becomes presumptively
+regulated, then the protections of fair use are not enough.</p>
+<p>The case of Video Pipeline is a good example. Video Pipeline was
+in the business of making "trailer" advertisements for movies
+available to video stores. The video stores displayed the trailers
+as a way to sell videos. Video Pipeline got the trailers from the
+film distributors, put the trailers on tape, and sold the tapes to
+the retail stores.</p>
+<p>The company did this for about fifteen years. Then, in 1997, it
+began to think about the Internet as another way to distribute
+these previews. The idea was to expand their "selling by sampling"
+technique by giving on-line stores the same ability to enable
+"browsing." Just as in a bookstore you can read a few pages of a
+book before you buy the book, so, too, you would be able to sample
+a bit from the movie on-line before you bought it.</p>
+<p>In 1998, Video Pipeline informed Disney and other film
+distributors that it intended to distribute the trailers through
+the Internet (rather than sending the tapes) to distributors of
+their videos. Two years later, Disney told Video Pipeline to stop.
+The owner of Video Pipeline asked Disney to talk about the
+matter—he had built a business on distributing this content as a
+way to help sell Disney films; he had customers who depended upon
+his delivering this content. Disney would agree to talk only if
+Video Pipeline stopped the distribution immediately. Video Pipeline
+thought it was within their "fair use" rights to distribute the
+clips as they had. So they filed a lawsuit to ask the court to
+declare that these rights were in fact their rights.</p>
+<p>Disney countersued—for $100 million in damages. Those damages
+were predicated upon a claim that Video Pipeline had "willfully
+infringed" on Disney's copyright. When a court makes a finding of
+willful infringement, it can award damages not on the basis of the
+actual harm to the copyright owner, but on the basis of an amount
+set in the statute. Because Video Pipeline had distributed seven
+hundred clips of Disney movies to enable video stores to sell
+copies of those movies, Disney was now suing Video Pipeline for
+$100 million.</p>
+<p>Disney has the right to control its property, of course. But the
+video stores that were selling Disney's films also had some sort of
+right to be able to sell the films that they had bought from
+Disney. Disney's claim in court was that the stores were allowed to
+sell the films and they were permitted to list the titles of the
+films they were selling, but they were not allowed to show clips of
+the films as a way of selling them without Disney's permission.</p>
+<p>Now, you might think this is a close case, and I think the
+courts would consider it a close case. My point here is to map the
+change that gives Disney this power. Before the Internet, Disney
+couldn't really control how people got access to their content.
+Once a video was in the marketplace, the "first-sale doctrine"
+would free the seller to use the video as he wished, including
+showing portions of it in order to engender sales of the entire
+movie video. But with the Internet, it becomes possible for Disney
+to centralize control over access to this content. Because each use
+of the Internet produces a copy, use on the Internet becomes
+subject to the copyright owner's control. The technology expands
+the scope of effective control, because the technology builds a
+copy into every transaction.</p>
+<p>No doubt, a potential is not yet an abuse, and so the potential
+for control is not yet the abuse of control. Barnes &amp; Noble has
+the right to say you can't touch a book in their store; property
+law gives them that right. But the market effectively protects
+against that abuse. If Barnes &amp; Noble banned browsing, then
+consumers would choose other bookstores. Competition protects
+against the extremes. And it may well be (my argument so far does
+not even question this) that competition would prevent any similar
+danger when it comes to copyright. Sure, publishers exercising the
+rights that authors have assigned to them might try to regulate how
+many times you read a book, or try to stop you from sharing the
+book with anyone. But in a competitive market such as the book
+market, the dangers of this happening are quite slight.</p>
+<p>Again, my aim so far is simply to map the changes that this
+changed architecture enables. Enabling technology to enforce the
+control of copyright means that the control of copyright is no
+longer defined by balanced policy. The control of copyright is
+simply what private owners choose. In some contexts, at least, that
+fact is harmless. But in some contexts it is a recipe for
+disaster.</p>
+</div>
+</div>
+</div>
+</body>
+</html>

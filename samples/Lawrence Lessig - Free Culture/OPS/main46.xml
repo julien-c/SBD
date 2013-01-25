@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content=
+"HTML Tidy for FreeBSD (vers 25 March 2009), see www.w3.org" />
+<title>Free Culture</title>
+<link rel="stylesheet" href="css/main.css" type="text/css" />
+<meta http-equiv="Content-Type" content=
+"application/xhtml+xml; charset=utf-8" />
+</head>
+<body>
+<div class="body">
+<div id="section_71549" class="section">
+<h3 class="section_title">1. Rebuilding Freedoms Previously
+Presumed: Examples</h3>
+<div class="text">
+<p>If you step back from the battle I've been describing here, you
+will recognize this problem from other contexts. Think about
+privacy. Before the Internet, most of us didn't have to worry much
+about data about our lives that we broadcast to the world. If you
+walked into a bookstore and browsed through some of the works of
+Karl Marx, you didn't need to worry about explaining your browsing
+habits to your neighbors or boss. The "privacy" of your browsing
+habits was assured.</p>
+<p>What made it assured?</p>
+<p>Well, if we think in terms of the modalities I described in
+chapter 10, your privacy was assured because of an inefficient
+architecture for gathering data and hence a market constraint
+(cost) on anyone who wanted to gather that data. If you were a
+suspected spy for North Korea, working for the CIA, no doubt your
+privacy would not be assured. But that's because the CIA would (we
+hope) find it valuable enough to spend the thousands required to
+track you. But for most of us (again, we can hope), spying doesn't
+pay. The highly inefficient architecture of real space means we all
+enjoy a fairly robust amount of privacy. That privacy is guaranteed
+to us by friction. Not by law (there is no law protecting "privacy"
+in public places), and in many places, not by norms (snooping and
+gossip are just fun), but instead, by the costs that friction
+imposes on anyone who would want to spy.</p>
+<p>Enter the Internet, where the cost of tracking browsing in
+particular has become quite tiny. If you're a customer at Amazon,
+then as you browse the pages, Amazon collects the data about what
+you've looked at. You know this because at the side of the page,
+there's a list of "recently viewed" pages. Now, because of the
+architecture of the Net and the function of cookies on the Net, it
+is easier to collect the data than not. The friction has
+disappeared, and hence any "privacy" protected by the friction
+disappears, too.</p>
+<p>Amazon, of course, is not the problem. But we might begin to
+worry about libraries. If you're one of those crazy lefties who
+thinks that people should have the "right" to browse in a library
+without the government knowing which books you look at (I'm one of
+those lefties, too), then this change in the technology of
+monitoring might concern you. If it becomes simple to gather and
+sort who does what in electronic spaces, then the friction-induced
+privacy of yesterday disappears.</p>
+<p>It is this reality that explains the push of many to define
+"privacy" on the Internet. It is the recognition that technology
+can remove what friction before gave us that leads many to push for
+laws to do what friction did.<a class="footnote" href=
+"footnotes.xml#footnote_210" id="footnote_210_call">[210]</a> And
+whether you're in favor of those laws or not, it is the pattern
+that is important here. We must take affirmative steps to secure a
+kind of freedom that was passively provided before. A change in
+technology now forces those who believe in privacy to affirmatively
+act where, before, privacy was given by default.</p>
+<p>A similar story could be told about the birth of the free
+software movement. When computers with software were first made
+available commercially, the software—both the source code and the
+binaries— was free. You couldn't run a program written for a Data
+General machine on an IBM machine, so Data General and IBM didn't
+care much about controlling their software.</p>
+<p>That was the world Richard Stallman was born into, and while he
+was a researcher at MIT, he grew to love the community that
+developed when one was free to explore and tinker with the software
+that ran on machines. Being a smart sort himself, and a talented
+programmer, Stallman grew to depend upon the freedom to add to or
+modify other people's work.</p>
+<p>In an academic setting, at least, that's not a terribly radical
+idea. In a math department, anyone would be free to tinker with a
+proof that someone offered. If you thought you had a better way to
+prove a theorem, you could take what someone else did and change
+it. In a classics department, if you believed a colleague's
+translation of a recently discovered text was flawed, you were free
+to improve it. Thus, to Stallman, it seemed obvious that you should
+be free to tinker with and improve the code that ran a machine.
+This, too, was knowledge. Why shouldn't it be open for criticism
+like anything else?</p>
+<p>No one answered that question. Instead, the architecture of
+revenue for computing changed. As it became possible to import
+programs from one system to another, it became economically
+attractive (at least in the view of some) to hide the code of your
+program. So, too, as companies started selling peripherals for
+mainframe systems. If I could just take your printer driver and
+copy it, then that would make it easier for me to sell a printer to
+the market than it was for you.</p>
+<p>Thus, the practice of proprietary code began to spread, and by
+the early 1980s, Stallman found himself surrounded by proprietary
+code. The world of free software had been erased by a change in the
+economics of computing. And as he believed, if he did nothing about
+it, then the freedom to change and share software would be
+fundamentally weakened.</p>
+<p>Therefore, in 1984, Stallman began a project to build a free
+operating system, so that at least a strain of free software would
+survive. That was the birth of the GNU project, into which Linus
+Torvalds's "Linux" kernel was added to produce the GNU/Linux
+operating system.</p>
+<p>Stallman's technique was to use copyright law to build a world
+of software that must be kept free. Software licensed under the
+Free Software Foundation's GPL cannot be modified and distributed
+unless the source code for that software is made available as well.
+Thus, anyone building upon GPL'd software would have to make their
+buildings free as well. This would assure, Stallman believed, that
+an ecology of code would develop that remained free for others to
+build upon. His fundamental goal was freedom; innovative creative
+code was a byproduct.</p>
+<p>Stallman was thus doing for software what privacy advocates now
+do for privacy. He was seeking a way to rebuild a kind of freedom
+that was taken for granted before. Through the affirmative use of
+licenses that bind copyrighted code, Stallman was affirmatively
+reclaiming a space where free software would survive. He was
+actively protecting what before had been passively guaranteed.</p>
+<p>Finally, consider a very recent example that more directly
+resonates with the story of this book. This is the shift in the way
+academic and scientific journals are produced.</p>
+<p>As digital technologies develop, it is becoming obvious to many
+that printing thousands of copies of journals every month and
+sending them to libraries is perhaps not the most efficient way to
+distribute knowledge. Instead, journals are increasingly becoming
+electronic, and libraries and their users are given access to these
+electronic journals through password-protected sites. Something
+similar to this has been happening in law for almost thirty years:
+Lexis and Westlaw have had electronic versions of case reports
+available to subscribers to their service. Although a Supreme Court
+opinion is not copyrighted, and anyone is free to go to a library
+and read it, Lexis and Westlaw are also free to charge users for
+the privilege of gaining access to that Supreme Court opinion
+through their respective services.</p>
+<p>There's nothing wrong in general with this, and indeed, the
+ability to charge for access to even public domain materials is a
+good incentive for people to develop new and innovative ways to
+spread knowledge. The law has agreed, which is why Lexis and
+Westlaw have been allowed to flourish. And if there's nothing wrong
+with selling the public domain, then there could be nothing wrong,
+in principle, with selling access to material that is not in the
+public domain.</p>
+<p>But what if the only way to get access to social and scientific
+data was through proprietary services? What if no one had the
+ability to browse this data except by paying for a
+subscription?</p>
+<p>As many are beginning to notice, this is increasingly the
+reality with scientific journals. When these journals were
+distributed in paper form, libraries could make the journals
+available to anyone who had access to the library. Thus, patients
+with cancer could become cancer experts because the library gave
+them access. Or patients trying to understand the risks of a
+certain treatment could research those risks by reading all
+available articles about that treatment. This freedom was therefore
+a function of the institution of libraries (norms) and the
+technology of paper journals (architecture)—namely, that it was
+very hard to control access to a paper journal.</p>
+<p>As journals become electronic, however, the publishers are
+demanding that libraries not give the general public access to the
+journals. This means that the freedoms provided by print journals
+in public libraries begin to disappear. Thus, as with privacy and
+with software, a changing technology and market shrink a freedom
+taken for granted before.</p>
+<p>This shrinking freedom has led many to take affirmative steps to
+restore the freedom that has been lost. The Public Library of
+Science (PLoS), for example, is a nonprofit corporation dedicated
+to making scientific research available to anyone with a Web
+connection. Authors of scientific work submit that work to the
+Public Library of Science. That work is then subject to peer
+review. If accepted, the work is then deposited in a public,
+electronic archive and made permanently available for free. PLoS
+also sells a print version of its work, but the copyright for the
+print journal does not inhibit the right of anyone to redistribute
+the work for free.</p>
+<p>This is one of many such efforts to restore a freedom taken for
+granted before, but now threatened by changing technology and
+markets. There's no doubt that this alternative competes with the
+traditional publishers and their efforts to make money from the
+exclusive distribution of content. But competition in our tradition
+is presumptively a good—especially when it helps spread knowledge
+and science.</p>
+</div>
+</div>
+</div>
+</body>
+</html>

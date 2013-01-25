@@ -15,24 +15,18 @@ require 'PHP-EPUBParser/src/EPUBParser/EPUB/Publication/Package/Guide/Reference.
 
 use EPUBParser\EPUB;
 
-require 'SBD.php';
-
-
-
 $path = $argv[1];
 
-
 $book = new EPUB\Book($path);
-$sentences = array();
+
+$components = array();
 
 foreach ($book->getPackage()->getSpine()->getItemrefs() as $itemref) {
 	$item = $itemref->getItem();
-	
-	$filepath = $path . '/' . $item->getHref();
-	
-	$sbd = new SBD($filepath);
-	$sentences[$item->getId()] = $sbd->detect();
+	$components[] = $item->getHref();
 }
 
-file_put_contents('sentences.json', json_encode($sentences));
+file_put_contents($path.'.json', json_encode(array(
+	'components' => $components
+)));
 

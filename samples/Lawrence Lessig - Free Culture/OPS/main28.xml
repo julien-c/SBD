@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content=
+"HTML Tidy for FreeBSD (vers 25 March 2009), see www.w3.org" />
+<title>Free Culture</title>
+<link rel="stylesheet" href="css/main.css" type="text/css" />
+<meta http-equiv="Content-Type" content=
+"application/xhtml+xml; charset=utf-8" />
+</head>
+<body>
+<div class="body">
+<div id="section_71520" class="section">
+<h3 class="section_title">6. Architecture and Law: Force</h3>
+<div class="text">
+<p>The disappearance of unregulated uses would be change enough,
+but a second important change brought about by the Internet
+magnifies its significance. This second change does not affect the
+reach of copyright regulation; it affects how such regulation is
+enforced.</p>
+<p>In the world before digital technology, it was generally the law
+that controlled whether and how someone was regulated by copyright
+law. The law, meaning a court, meaning a judge: In the end, it was
+a human, trained in the tradition of the law and cognizant of the
+balances that tradition embraced, who said whether and how the law
+would restrict your freedom.</p>
+<p>There's a famous story about a battle between the Marx Brothers
+and Warner Brothers. The Marxes intended to make a parody of
+Casablanca. Warner Brothers objected. They wrote a nasty letter to
+the Marxes, warning them that there would be serious legal
+consequences if they went forward with their plan.<a class=
+"footnote" href="footnotes.xml#footnote_136" id=
+"footnote_136_call">[136]</a></p>
+<p>This led the Marx Brothers to respond in kind. They warned
+Warner Brothers that the Marx Brothers "were brothers long before
+you were."<a class="footnote" href="footnotes.xml#footnote_137" id=
+"footnote_137_call">[137]</a> The Marx Brothers therefore owned the
+word brothers, and if Warner Brothers insisted on trying to control
+Casablanca, then the Marx Brothers would insist on control over
+brothers.</p>
+<p>An absurd and hollow threat, of course, because Warner Brothers,
+like the Marx Brothers, knew that no court would ever enforce such
+a silly claim. This extremism was irrelevant to the real freedoms
+anyone (including Warner Brothers) enjoyed.</p>
+<p>On the Internet, however, there is no check on silly rules,
+because on the Internet, increasingly, rules are enforced not by a
+human but by a machine: Increasingly, the rules of copyright law,
+as interpreted by the copyright owner, get built into the
+technology that delivers copyrighted content. It is code, rather
+than law, that rules. And the problem with code regulations is
+that, unlike law, code has no shame. Code would not get the humor
+of the Marx Brothers. The consequence of that is not at all
+funny.</p>
+<p>Consider the life of my Adobe eBook Reader.</p>
+<p>An e-book is a book delivered in electronic form. An Adobe eBook
+is not a book that Adobe has published; Adobe simply produces the
+software that publishers use to deliver e-books. It provides the
+technology, and the publisher delivers the content by using the
+technology.</p>
+<p>On the next page is a picture of an old version of my Adobe
+eBook Reader.</p>
+<p>As you can see, I have a small collection of e-books within this
+e-book library. Some of these books reproduce content that is in
+the public domain: Middlemarch, for example, is in the public
+domain. Some of them reproduce content that is not in the public
+domain: My own book The Future of Ideas is not yet within the
+public domain. Consider Middlemarch first. If you click on my
+e-book copy of Middlemarch, you'll see a fancy cover, and then a
+button at the bottom called Permissions.</p>
+<p>(Figure 5.12 – Acrobat eBook Reader)</p>
+<p>If you click on the Permissions button, you'll see a list of the
+permissions that the publisher purports to grant with this
+book.</p>
+<p>(Figure 5.13)</p>
+<p>According to my eBook Reader, I have the permission to copy to
+the clipboard of the computer ten text selections every ten days.
+(So far, I've copied no text to the clipboard.) I also have the
+permission to print ten pages from the book every ten days. Lastly,
+I have the permission to use the Read Aloud button to hear
+Middlemarch read aloud through the computer.</p>
+<p>Here's the e-book for another work in the public domain
+(including the translation): Aristotle's Politics.</p>
+<p>(Figure 5.14)</p>
+<p>According to its permissions, no printing or copying is
+permitted at all. But fortunately, you can use the Read Aloud
+button to hear the book.</p>
+<p>(Figure 5.15)</p>
+<p>Finally (and most embarrassingly), here are the permissions for
+the original e-book version of my last book, The Future of
+Ideas:</p>
+<p>(Figure 5.16)</p>
+<p>No copying, no printing, and don't you dare try to listen to
+this book!</p>
+<p>Now, the Adobe eBook Reader calls these controls "permissions"—
+as if the publisher has the power to control how you use these
+works. For works under copyright, the copyright owner certainly
+does have the power—up to the limits of the copyright law. But for
+work not under copyright, there is no such copyright
+power.<a class="footnote" href="footnotes.xml#footnote_138" id=
+"footnote_138_call">[138]</a> When my e-book of Middlemarch says I
+have the permission to copy only ten text selections into the
+memory every ten days, what that really means is that the eBook
+Reader has enabled the publisher to control how I use the book on
+my computer, far beyond the control that the law would enable.</p>
+<p>The control comes instead from the code—from the technology
+within which the e-book "lives." Though the e-book says that these
+are permissions, they are not the sort of "permissions" that most
+of us deal with. When a teenager gets "permission" to stay out till
+midnight, she knows (unless she's Cinderella) that she can stay out
+till 2 A.M., but will suffer a punishment if she's caught. But when
+the Adobe eBook Reader says I have the permission to make ten
+copies of the text into the computer's memory, that means that
+after I've made ten copies, the computer will not make any more.
+The same with the printing restrictions: After ten pages, the eBook
+Reader will not print any more pages. It's the same with the silly
+restriction that says that you can't use the Read Aloud button to
+read my book aloud—it's not that the company will sue you if you
+do; instead, if you push the Read Aloud button with my book, the
+machine simply won't read aloud.</p>
+<p>These are controls, not permissions. Imagine a world where the
+Marx Brothers sold word processing software that, when you tried to
+type "Warner Brothers," erased "Brothers" from the sentence.</p>
+<p>This is the future of copyright law: not so much copyright law
+as copyright code. The controls over access to content will not be
+controls that are ratified by courts; the controls over access to
+content will be controls that are coded by programmers. And whereas
+the controls that are built into the law are always to be checked
+by a judge, the controls that are built into the technology have no
+similar built-in check.</p>
+<p>How significant is this? Isn't it always possible to get around
+the controls built into the technology? Software used to be sold
+with technologies that limited the ability of users to copy the
+software, but those were trivial protections to defeat. Why won't
+it be trivial to defeat these protections as well?</p>
+<p>We've only scratched the surface of this story. Return to the
+Adobe eBook Reader.</p>
+<p>Early in the life of the Adobe eBook Reader, Adobe suffered a
+public relations nightmare. Among the books that you could download
+for free on the Adobe site was a copy of Alice's Adventures in
+Wonderland. This wonderful book is in the public domain. Yet when
+you clicked on Permissions for that book, you got the following
+report:</p>
+<p>(Figure 5.17)</p>
+<p>Here was a public domain children's book that you were not
+allowed to copy, not allowed to lend, not allowed to give, and, as
+the "permissions" indicated, not allowed to "read aloud"!</p>
+<p>The public relations nightmare attached to that final
+permission. For the text did not say that you were not permitted to
+use the Read Aloud button; it said you did not have the permission
+to read the book aloud. That led some people to think that Adobe
+was restricting the right of parents, for example, to read the book
+to their children, which seemed, to say the least, absurd.</p>
+<p>Adobe responded quickly that it was absurd to think that it was
+trying to restrict the right to read a book aloud. Obviously it was
+only restricting the ability to use the Read Aloud button to have
+the book read aloud. But the question Adobe never did answer is
+this: Would Adobe thus agree that a consumer was free to use
+software to hack around the restrictions built into the eBook
+Reader? If some company (call it Elcomsoft) developed a program to
+disable the technological protection built into an Adobe eBook so
+that a blind person, say, could use a computer to read the book
+aloud, would Adobe agree that such a use of an eBook Reader was
+fair? Adobe didn't answer because the answer, however absurd it
+might seem, is no.</p>
+<p>The point is not to blame Adobe. Indeed, Adobe is among the most
+innovative companies developing strategies to balance open access
+to content with incentives for companies to innovate. But Adobe's
+technology enables control, and Adobe has an incentive to defend
+this control. That incentive is understandable, yet what it creates
+is often crazy.</p>
+<p>To see the point in a particularly absurd context, consider a
+favorite story of mine that makes the same point.</p>
+<p>Consider the robotic dog made by Sony named "Aibo." The Aibo
+learns tricks, cuddles, and follows you around. It eats only
+electricity and that doesn't leave that much of a mess (at least in
+your house).</p>
+<p>The Aibo is expensive and popular. Fans from around the world
+have set up clubs to trade stories. One fan in particular set up a
+Web site to enable information about the Aibo dog to be shared.
+This fan set up aibopet.com (and aibohack.com, but that resolves to
+the same site), and on that site he provided information about how
+to teach an Aibo to do tricks in addition to the ones Sony had
+taught it.</p>
+<p>"Teach" here has a special meaning. Aibos are just cute
+computers. You teach a computer how to do something by programming
+it differently. So to say that aibopet.com was giving information
+about how to teach the dog to do new tricks is just to say that
+aibopet.com was giving information to users of the Aibo pet about
+how to hack their computer "dog" to make it do new tricks (thus,
+aibohack.com).</p>
+<p>If you're not a programmer or don't know many programmers, the
+word hack has a particularly unfriendly connotation. Nonprogrammers
+hack bushes or weeds. Nonprogrammers in horror movies do even
+worse. But to programmers, or coders, as I call them, hack is a
+much more positive term. Hack just means code that enables the
+program to do something it wasn't originally intended or enabled to
+do. If you buy a new printer for an old computer, you might find
+the old computer doesn't run, or "drive," the printer. If you
+discovered that, you'd later be happy to discover a hack on the Net
+by someone who has written a driver to enable the computer to drive
+the printer you just bought.</p>
+<p>Some hacks are easy. Some are unbelievably hard. Hackers as a
+community like to challenge themselves and others with increasingly
+difficult tasks. There's a certain respect that goes with the
+talent to hack well. There's a well-deserved respect that goes with
+the talent to hack ethically.</p>
+<p>The Aibo fan was displaying a bit of both when he hacked the
+program and offered to the world a bit of code that would enable
+the Aibo to dance jazz. The dog wasn't programmed to dance jazz. It
+was a clever bit of tinkering that turned the dog into a more
+talented creature than Sony had built.</p>
+<p>I've told this story in many contexts, both inside and outside
+the United States. Once I was asked by a puzzled member of the
+audience, is it permissible for a dog to dance jazz in the United
+States? We forget that stories about the backcountry still flow
+across much of the world. So let's just be clear before we
+continue: It's not a crime anywhere (anymore) to dance jazz. Nor is
+it a crime to teach your dog to dance jazz. Nor should it be a
+crime (though we don't have a lot to go on here) to teach your
+robot dog to dance jazz. Dancing jazz is a completely legal
+activity. One imagines that the owner of aibopet.com thought, What
+possible problem could there be with teaching a robot dog to
+dance?</p>
+<p>Let's put the dog to sleep for a minute, and turn to a pony
+show— not literally a pony show, but rather a paper that a
+Princeton academic named Ed Felten prepared for a conference. This
+Princeton academic is well known and respected. He was hired by the
+government in the Microsoft case to test Microsoft's claims about
+what could and could not be done with its own code. In that trial,
+he demonstrated both his brilliance and his coolness. Under heavy
+badgering by Microsoft lawyers, Ed Felten stood his ground. He was
+not about to be bullied into being silent about something he knew
+very well.</p>
+<p>But Felten's bravery was really tested in April 2001.<a class=
+"footnote" href="footnotes.xml#footnote_139" id=
+"footnote_139_call">[139]</a> He and a group of colleagues were
+working on a paper to be submitted at conference. The paper was
+intended to describe the weakness in an encryption system being
+developed by the Secure Digital Music Initiative as a technique to
+control the distribution of music.</p>
+<p>The SDMI coalition had as its goal a technology to enable
+content owners to exercise much better control over their content
+than the Internet, as it originally stood, granted them. Using
+encryption, SDMI hoped to develop a standard that would allow the
+content owner to say "this music cannot be copied," and have a
+computer respect that command. The technology was to be part of a
+"trusted system" of control that would get content owners to trust
+the system of the Internet much more.</p>
+<p>When SDMI thought it was close to a standard, it set up a
+competition. In exchange for providing contestants with the code to
+an SDMI-encrypted bit of content, contestants were to try to crack
+it and, if they did, report the problems to the consortium.</p>
+<p>Felten and his team figured out the encryption system quickly.
+He and the team saw the weakness of this system as a type: Many
+encryption systems would suffer the same weakness, and Felten and
+his team thought it worthwhile to point this out to those who study
+encryption.</p>
+<p>Let's review just what Felten was doing. Again, this is the
+United States. We have a principle of free speech. We have this
+principle not just because it is the law, but also because it is a
+really great idea. A strongly protected tradition of free speech is
+likely to encourage a wide range of criticism. That criticism is
+likely, in turn, to improve the systems or people or ideas
+criticized.</p>
+<p>What Felten and his colleagues were doing was publishing a paper
+describing the weakness in a technology. They were not spreading
+free music, or building and deploying this technology. The paper
+was an academic essay, unintelligible to most people. But it
+clearly showed the weakness in the SDMI system, and why SDMI would
+not, as presently constituted, succeed.</p>
+<p>What links these two, aibopet.com and Felten, is the letters
+they then received. Aibopet.com received a letter from Sony about
+the aibopet.com hack. Though a jazz-dancing dog is perfectly legal,
+Sony wrote:</p>
+<blockquote>
+<p>Your site contains information providing the means to circumvent
+AIBO-ware's copy protection protocol constituting a violation of
+the anti-circumvention provisions of the Digital Millennium
+Copyright Act.</p>
+</blockquote>
+<p>And though an academic paper describing the weakness in a system
+of encryption should also be perfectly legal, Felten received a
+letter from an RIAA lawyer that read:</p>
+<blockquote>
+<p>Any disclosure of information gained from participating in the
+Public Challenge would be outside the scope of activities permitted
+by the Agreement and could subject you and your research team to
+actions under the Digital Millennium Copyright Act ("DMCA").</p>
+</blockquote>
+<p>In both cases, this weirdly Orwellian law was invoked to control
+the spread of information. The Digital Millennium Copyright Act
+made spreading such information an offense.</p>
+<p>The DMCA was enacted as a response to copyright owners' first
+fear about cyberspace. The fear was that copyright control was
+effectively dead; the response was to find technologies that might
+compensate. These new technologies would be copyright protection
+technologies— technologies to control the replication and
+distribution of copyrighted material. They were designed as code to
+modify the original code of the Internet, to reestablish some
+protection for copyright owners.</p>
+<p>The DMCA was a bit of law intended to back up the protection of
+this code designed to protect copyrighted material. It was, we
+could say, legal code intended to buttress software code which
+itself was intended to support the legal code of copyright.</p>
+<p>But the DMCA was not designed merely to protect copyrighted
+works to the extent copyright law protected them. Its protection,
+that is, did not end at the line that copyright law drew. The DMCA
+regulated devices that were designed to circumvent copyright
+protection measures. It was designed to ban those devices, whether
+or not the use of the copyrighted material made possible by that
+circumvention would have been a copyright violation.</p>
+<p>Aibopet.com and Felten make the point. The Aibo hack
+circumvented a copyright protection system for the purpose of
+enabling the dog to dance jazz. That enablement no doubt involved
+the use of copyrighted material. But as aibopet.com's site was
+noncommercial, and the use did not enable subsequent copyright
+infringements, there's no doubt that aibopet.com's hack was fair
+use of Sony's copyrighted material. Yet fair use is not a defense
+to the DMCA. The question is not whether the use of the copyrighted
+material was a copyright violation. The question is whether a
+copyright protection system was circumvented.</p>
+<p>The threat against Felten was more attenuated, but it followed
+the same line of reasoning. By publishing a paper describing how a
+copyright protection system could be circumvented, the RIAA lawyer
+suggested, Felten himself was distributing a circumvention
+technology. Thus, even though he was not himself infringing
+anyone's copyright, his academic paper was enabling others to
+infringe others' copyright.</p>
+<p>The bizarreness of these arguments is captured in a cartoon
+drawn in 1981 by Paul Conrad. At that time, a court in California
+had held that the VCR could be banned because it was a
+copyright-infringing technology: It enabled consumers to copy films
+without the permission of the copyright owner. No doubt there were
+uses of the technology that were legal: Fred Rogers, aka "Mr.
+Rogers," for example, had testified in that case that he wanted
+people to feel free to tape Mr. Rogers' Neighborhood.</p>
+<blockquote>
+<p>Some public stations, as well as commercial stations, program
+the "Neighborhood" at hours when some children cannot use it. I
+think that it's a real service to families to be able to record
+such programs and show them at appropriate times. I have always
+felt that with the advent of all of this new technology that allows
+people to tape the "Neighborhood" off-the-air, and I'm speaking for
+the "Neighborhood" because that's what I produce, that they then
+become much more active in the programming of their family's
+television life. Very frankly, I am opposed to people being
+programmed by others. My whole approach in broadcasting has always
+been "You are an important person just the way you are. You can
+make healthy decisions." Maybe I'm going on too long, but I just
+feel that anything that allows a person to be more active in the
+control of his or her life, in a healthy way, is
+important.<a class="footnote" href="footnotes.xml#footnote_140" id=
+"footnote_140_call">[140]</a></p>
+</blockquote>
+<p>Even though there were uses that were legal, because there were
+some uses that were illegal, the court held the companies producing
+the VCR responsible.</p>
+<p>This led Conrad to draw the cartoon below, which we can adopt to
+the DMCA.</p>
+<p>No argument I have can top this picture, but let me try to get
+close.</p>
+<p>The anticircumvention provisions of the DMCA target copyright
+circumvention technologies. Circumvention technologies can be used
+for different ends. They can be used, for example, to enable
+massive pirating of copyrighted material—a bad end. Or they can be
+used to enable the use of particular copyrighted materials in ways
+that would be considered fair use—a good end.</p>
+<p>A handgun can be used to shoot a police officer or a child. Most
+would agree such a use is bad. Or a handgun can be used for target
+practice or to protect against an intruder. At least some would say
+that such a use would be good. It, too, is a technology that has
+both good and bad uses.</p>
+<p>(Figure 5.18)</p>
+<p>The obvious point of Conrad's cartoon is the weirdness of a
+world where guns are legal, despite the harm they can do, while
+VCRs (and circumvention technologies) are illegal. Flash: No one
+ever died from copyright circumvention. Yet the law bans
+circumvention technologies absolutely, despite the potential that
+they might do some good, but permits guns, despite the obvious and
+tragic harm they do.</p>
+<p>The Aibo and RIAA examples demonstrate how copyright owners are
+changing the balance that copyright law grants. Using code,
+copyright owners restrict fair use; using the DMCA, they punish
+those who would attempt to evade the restrictions on fair use that
+they impose through code. Technology becomes a means by which fair
+use can be erased; the law of the DMCA backs up that erasing.</p>
+<p>This is how code becomes law. The controls built into the
+technology of copy and access protection become rules the violation
+of which is also a violation of the law. In this way, the code
+extends the law—increasing its regulation, even if the subject it
+regulates (activities that would otherwise plainly constitute fair
+use) is beyond the reach of the law. Code becomes law; code extends
+the law; code thus extends the control that copyright owners
+effect—at least for those copyright holders with the lawyers who
+can write the nasty letters that Felten and aibopet.com
+received.</p>
+<p>There is one final aspect of the interaction between
+architecture and law that contributes to the force of copyright's
+regulation. This is the ease with which infringements of the law
+can be detected. For contrary to the rhetoric common at the birth
+of cyberspace that on the Internet, no one knows you're a dog,
+increasingly, given changing technologies deployed on the Internet,
+it is easy to find the dog who committed a legal wrong. The
+technologies of the Internet are open to snoops as well as sharers,
+and the snoops are increasingly good at tracking down the identity
+of those who violate the rules.</p>
+<p>For example, imagine you were part of a Star Trek fan club. You
+gathered every month to share trivia, and maybe to enact a kind of
+fan fiction about the show. One person would play Spock, another,
+Captain Kirk. The characters would begin with a plot from a real
+story, then simply continue it.<a class="footnote" href=
+"footnotes.xml#footnote_141" id="footnote_141_call">[141]</a></p>
+<p>Before the Internet, this was, in effect, a totally unregulated
+activity. No matter what happened inside your club room, you would
+never be interfered with by the copyright police. You were free in
+that space to do as you wished with this part of our culture. You
+were allowed to build on it as you wished without fear of legal
+control.</p>
+<p>But if you moved your club onto the Internet, and made it
+generally available for others to join, the story would be very
+different. Bots scouring the Net for trademark and copyright
+infringement would quickly find your site. Your posting of fan
+fiction, depending upon the ownership of the series that you're
+depicting, could well inspire a lawyer's threat. And ignoring the
+lawyer's threat would be extremely costly indeed. The law of
+copyright is extremely efficient. The penalties are severe, and the
+process is quick.</p>
+<p>This change in the effective force of the law is caused by a
+change in the ease with which the law can be enforced. That change
+too shifts the law's balance radically. It is as if your car
+transmitted the speed at which you traveled at every moment that
+you drove; that would be just one step before the state started
+issuing tickets based upon the data you transmitted. That is, in
+effect, what is happening here.</p>
+</div>
+</div>
+</div>
+</body>
+</html>
