@@ -26,7 +26,15 @@ foreach ($book->getPackage()->getSpine()->getItemrefs() as $itemref) {
 	$components[] = $item->getHref();
 }
 
+$metadata = $book->getPackage()->getMetadata();
+
 file_put_contents($path.'.json', json_encode(array(
-	'components' => $components
+	'components' => $components,
+	'metadata'   => array(
+		'title' => $metadata->getTitle(),
+		'creator' => $metadata->getCreator(),
+		'description' => $metadata->getDescription(),
+		'subjects' => $metadata->getSubjects(),
+	)
 )));
 
