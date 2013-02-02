@@ -108,7 +108,7 @@ class SBD
 					if ($i == count($offsets) - 1) {
 						$range = array(
 							'start' => $offsets[$i],
-							'end'   => strlen($text)
+							'end'   => mb_strlen($text)
 						);
 					}
 					else {
