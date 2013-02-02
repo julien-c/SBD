@@ -16,13 +16,13 @@ class SBD
 		$htmlstr = file_get_contents($this->filepath);
 		
 		$dom = new DOMDocument();
-		$dom->preserveWhiteSpace = false;
+		// $dom->preserveWhiteSpace = false;
 		$dom->loadHTML($htmlstr);
 		// Not loadXML, so as to preserve tag names when exporting to XPath.
 		
 		$body = $dom->getElementsByTagName('body')->item(0);
 		
-		$this->walkthrough($body, 0);
+		$this->walkthrough2($body, '');
 		
 		return $this->paths;
 	}
@@ -39,7 +39,7 @@ class SBD
 						$xpath = substr($xpath, 0, -7);
 					}
 					
-					$text  = $node->textContent;
+					$text = $node->textContent;
 					
 					
 					$sentences = $this->segment($text);
@@ -81,6 +81,59 @@ class SBD
 			
 			if ($node->hasChildNodes()) {
 				$this->walkthrough($node, $indent + 1);
+			}
+		}
+	}
+	
+	
+	
+	
+	public function walkthrough2(DOMNode $domNode, $path)
+	{
+		if ($domNode->nodeType === XML_TEXT_NODE) {
+			if (trim($domNode->textContent) !== '') {
+				// echo $path;
+				// echo "\n";
+				
+				$text = $domNode->textContent;
+				
+				$sentences = $this->segment($text);
+				
+				$offsets = array();
+				foreach ($sentences as $sentence) {
+					$offsets[] = $sentence[1];
+				}
+				
+				for ($i = 0; $i < count($offsets); $i++) { 
+					if ($i == count($offsets) - 1) {
+						$range = array(
+							'start' => $offsets[$i],
+							'end'   => strlen($text)
+						);
+					}
+					else {
+						$range = array(
+							'start' => $offsets[$i],
+							'end'   => $offsets[$i+1] - 1
+						);
+					}
+					
+					$fullPath = $path.':'.$range['start'] . ',' . $path.':'.$range['end'];
+					
+					$this->paths[] = $fullPath;
+					
+					echo $fullPath;
+					echo "\n";
+				}
+				
+			}
+		}
+		
+		
+		if ($domNode->hasChildNodes()) {
+			foreach ($domNode->childNodes as $index => $node) {
+				$newpath = ($path === '') ? $index : $path.'/'.$index;
+				$this->walkthrough2($node, $newpath);
 			}
 		}
 	}
